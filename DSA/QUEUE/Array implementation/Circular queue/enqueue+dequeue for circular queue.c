@@ -23,7 +23,7 @@ void print(){
 }
 
 void dequeue(){
-    if(rear==-1 || front==rear){
+    if(rear==0 || front==rear){
 		printf("Empty queue");
 	}
 	front=(front+1)%max;
