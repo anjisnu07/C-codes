@@ -27,10 +27,6 @@ void dequeue(){
 
 	front=front+1;
 
-// 	if(front==rear)
-// 	{
-// 		printf("Queue empty");
-// 	}
 }
 
 
