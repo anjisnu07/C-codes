@@ -29,7 +29,7 @@ int main(){
 		
 	}
 	
-printf("\nArray Elements after performing bubble sort:\n");
+printf("\nArray Elements after performing  sorting:\n");
 	for(i=0;i<n;i++){
 		printf("%d ",arr[i]);
 	}
