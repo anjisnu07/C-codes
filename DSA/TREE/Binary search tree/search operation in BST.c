@@ -74,7 +74,7 @@ int main(){
 	
 	struct node *v=search(p,key);
 	
-	if(key==p->data){
+	if(v != NULL){
 		printf("%d Data found ",p->data);
 	}
 	else{
