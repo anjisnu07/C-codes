@@ -119,34 +119,4 @@ int main(){
 		case 4: exit(1);
 }
 }
-//	struct node *p=createnode();
-//	struct node *q=createnode();
-//	struct node *r=createnode();
-//	struct node *s=createnode();
-//	struct node *t=createnode();
-//	struct node *u=createnode();
-	
-//	p->left=q;
-//	p->right=r;
-//	
-//	q->left=s;
-//	q->right=t;
-//	
-//	r->left=u;
-//	
-	 
-
-//
-//	printf("\nEnter data you wanna search:\n");
-//		scanf("%d",&key);	 
-//	
-//	struct node *v=search(p,key);
-//	
-//	if(v != NULL){
-//		printf("%d Data found ",key);
-//	}
-//	else{
-//		printf("Data isn't in BST.'");
-//	}
-	 
 }
